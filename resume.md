@@ -21,6 +21,7 @@ University of Windsor, Ontario, Canada
 Positions: Senior Software Engineer, Software Architect
 
  * Worked on a low-latency high-throuhgput self-healing AWS pipeline for student skill profiling
+   * Every day, processed over 10 million assessment results and constructed updated skill profiles for 1 million students
    * Entire infrastructure was code-driven, so that a complete environment (50+ hosts) could be generated from scratch in under 15 mins
    * Served as team lead and product owner
  * Led a team that aimed to increase engineering productivity via tech tools that remove common pain points (e.g., service discovery, containerization)
