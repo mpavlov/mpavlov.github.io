@@ -8,7 +8,7 @@ University of Waterloo, Ontario, Canada
 
  * Research area: Machine Learning
 
-### 2001-2005: *B.Sc. Computer Science, Software Engineering (Honours) (Co-op)*
+### 2001-2005: *B.Sc. Computer Science, Software Engineering (Co-op)*
 University of Windsor, Ontario, Canada
 
  * Minor in Mathematics
@@ -23,7 +23,7 @@ Positions: Senior Software Engineer, Software Architect
  * Worked on a low-latency high-throuhgput self-healing AWS pipeline for student skill profiling
    * Every day, processed over 10 million assessment results and constructed updated skill profiles for 1 million students
    * Entire infrastructure was code-driven, so that a complete environment (50+ hosts) could be generated from scratch in under 15 mins
-   * Served as team lead and product owner
+   * Served as developer, architect, team lead, product owner
  * Led a team that aimed to increase engineering productivity via tech tools that remove common pain points (e.g., service discovery, containerization)
  * Led some engineering recruiting efforts, including organizing company presence at conferences, interviewing at all 4 stages of our process, designing new interview questions and fine-tuning the steps in the process itself
 
@@ -39,7 +39,7 @@ Positions: Software engineer, Statistical Developer / Data Scientist
 ### 2007.03-2007.08: *National Institute of Informatics*, Tokyo
 Visiting Researcher (Co-op)
 
- * Developed a framework for link prediction in social networks, suggesting academic collaborations where they don't already exist
+ * Developed a framework for link prediction in social networks, suggesting academic collaborations where they haven't happened yet
  * Used information retrieval techniques from network science and supervised learning algorithms from artificial intelligence
 
 ### 2004.01-2004.04 + 2003.05-2003.08: *Con-Syst-Int*, Oldcastle, Canada
