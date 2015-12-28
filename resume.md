@@ -64,6 +64,7 @@ Junior Software Developer (Co-op)
  * 2001.09: Queen Elizabeth II "Aiming for the Top" Scholarship
 
 ## Other cool projects
+ * [Cheezoid](https://github.com/IlyaSukhanov/cheezoid): a whiteboard-drawing robot controlled by an html canvas
  * Selective "new mail" notifier: Uses support vector machines to determine whether incoming messages are urgent and only notifies the user if they are. Learns from explicit and implicit user feedback.
  * "How not to code" study: Reverse-engineering the OpenOffice productivity suite to assess architectural integrity
  * Image recognition app: Uses neural networks to simulate content-addressable memory
@@ -83,4 +84,4 @@ Junior Software Developer (Co-op)
    * Scored goals :)
 
 ## Other interests
-Piano, accordion, social dancing, soccer, basketball, badminton, East Asian languages, computer games
+Accordion, piano, ballroom and latin dances, soccer, basketball, badminton, East Asian languages
