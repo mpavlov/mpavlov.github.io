@@ -19,6 +19,13 @@ University of Windsor, Ontario, Canada
  * Major GPA: 96.4%
  * Graduated with Honours, Great Distinction, and Governor's Medal
 
+## Technologies and paradigms
+
+ * Cloud: AWS, immutable infrastructure, continuous integration and deployment, infrastructure as code, containerization
+ * Languages: Python, Java, Scala, Ruby, C++, C#
+ * Databases: Redis, DynamoDB, Cassandra, PostgreSQL, ElasticSearch, MongoDB, Oracle
+ * Other tech: Jenkins, Docker, Consul, Zookeeper, RabbitMQ, Celery, Boto, Kibana
+
 ## Work experience
 
 ### 2012.07-Present: *Amplify*, New York City
